@@ -29,4 +29,23 @@ The Northwind database consists of 14 tables with well-defined relationships, of
 * **Database Design:** Demonstrates database design principles and normalization.
 * **Data Analysis:** Enables practice in analyzing sales data, customer behavior, and product performance.
 
+**Project Content:**
+
+This SQL file includes a set of queries designed to retrieve specific data from the Northwind database. The focus is on operations involving customers, orders, products, and employees, leveraging joins, subqueries, and filtering to extract relevant information.
+
+* **List Order IDs for 'Island Trading':**
+    * Retrieves all order IDs for the customer 'Island Trading' using both a join and subquery method.
+
+* **Total Sales of Products Sold Fewer Than 100 Times:**
+    * Lists product ID, product name, and total number sold for products sold fewer than 100 times, using a join and aggregation.
+
+* **Employees Who Sold to 'Island Trading':**
+    * Fetches the last name and first name of employees who sold to 'Island Trading', using both a join and nested subquery for distinct results.
+
+* **Employees Without Orders Between March 1 and March 7, 1997:**
+    * Uses both outer join and subquery methods to list employees who did not take any orders during this date range.
+
+* **Customers and Suppliers of 'Tofu' Product:**
+    * Uses UNION to combine distinct results from customers and suppliers who ordered/supplied the product 'Tofu'. 
+
 The Northwind database provides a valuable resource for learning and experimenting with database concepts in a real-world context.
