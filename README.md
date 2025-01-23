@@ -21,6 +21,7 @@ The Northwind database is a sample database originally created by Microsoft for 
 **Structure:**
 
 The Northwind database consists of 14 tables with well-defined relationships, often visualized using an Entity-Relationship Diagram (ERD).
+![ERD](northwind-er-diagram.png)
 
 **Uses:**
 
