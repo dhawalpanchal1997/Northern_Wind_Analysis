@@ -1,0 +1,26 @@
+﻿CompanyName                              ContactName                    City            Region          PostalCode Country         Phone
+---------------------------------------- ------------------------------ --------------- --------------- ---------- --------------- ------------------------
+Ana Trujillo Emparedados y helados       Ana Trujillo                   México D.F.     NULL            05021      Mexico          (5) 555-4729
+Berglunds snabbköp                       Christina Berglund             Luleå           NULL            S-958 22   Sweden          0921-12 34 65
+Bon app'                                 Laurence Lebihan               Marseille       NULL            13008      France          91.24.45.40
+Ernst Handel                             Roland Mendel                  Graz            NULL            8010       Austria         7675-3425
+Frankenversand                           Peter Franken                  München         NULL            80805      Germany         089-0877310
+Great Lakes Food Market                  Howard Snyder                  Eugene          OR              97403      USA             (503) 555-7555
+Hungry Coyote Import Store               Yoshi Latimer                  Elgin           OR              97827      USA             (503) 555-6874
+Hungry Owl All-Night Grocers             Patricia McKenna               Cork            Co. Cork        NULL       Ireland         2967 542
+Königlich Essen                          Philip Cramer                  Brandenburg     NULL            14776      Germany         0555-09876
+Mayumi's                                 Mayumi Ohno                    Osaka           NULL            545        Japan           (06) 431-7877
+Océano Atlántico Ltda.                   Yvonne Moncada                 Buenos Aires    NULL            1010       Argentina       (1) 135-5333
+Ottilies Käseladen                       Henriette Pfalzheim            Köln            NULL            50739      Germany         0221-0644327
+Pericles Comidas clásicas                Guillermo Fernández            México D.F.     NULL            05033      Mexico          (5) 552-3745
+Piccolo und mehr                         Georg Pipps                    Salzburg        NULL            5020       Austria         6562-9722
+Que Delícia                              Bernardo Batista               Rio de Janeiro  RJ              02389-673  Brazil          (21) 555-4252
+Rattlesnake Canyon Grocery               Paula Wilson                   Albuquerque     NM              87110      USA             (505) 555-5939
+Save-a-lot Markets                       Jose Pavarotti                 Boise           ID              83720      USA             (208) 555-8097
+Toms Spezialitäten                       Karin Josephs                  Münster         NULL            44087      Germany         0251-031259
+Wartian Herkku                           Pirkko Koskitalo               Oulu            NULL            90110      Finland         981-443655
+
+(19 rows affected)
+
+
+Completion time: 2025-01-22T20:47:09.6002967-06:00

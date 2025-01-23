@@ -1,0 +1,10 @@
+﻿EmployeeID  LastName             FirstName
+----------- -------------------- ----------
+6           Suyama               Michael
+7           King                 Robert
+9           Dodsworth            Anne
+
+(3 rows affected)
+
+
+Completion time: 2025-01-22T20:46:22.0006232-06:00
